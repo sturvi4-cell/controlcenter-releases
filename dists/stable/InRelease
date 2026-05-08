@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: stable
+Date: Fri, 08 May 2026 09:13:31 UTC
+Architectures: amd64
+Components: main
+MD5Sum:
+ 5f5c3ed5a30a5b64a8fa6caf4007e800 716 main/binary-amd64/Packages
+ c5d83fde7565c748c065f627d699341d 477 main/binary-amd64/Packages.gz
+ 063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
+SHA1:
+ 6185956adb43aab4807e6ac8f54624cfac4444e7 716 main/binary-amd64/Packages
+ 131f928d40fec42ce893a07a49ccdecb64606981 477 main/binary-amd64/Packages.gz
+ f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
+SHA256:
+ 17c22f6eb3abb1f8aa13c0f5270613a2927892014cd032c2329d7cfb380e0fa7 716 main/binary-amd64/Packages
+ ea5dbaacc2b99c29ab2acb25297c8910cb6fc658b7a8ebaa03484541528a3cbf 477 main/binary-amd64/Packages.gz
+ f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release
+SHA512:
+ fe7d46c2845c0c942600f4acac851ea626f46a735d66fdc89ad8d6a4d698f6518672edbacdf24f605046ac5a4c524895a6143e7e53fc6fbe9113a78c2fcd9087 716 main/binary-amd64/Packages
+ b0fffa262f471b8177161341ae98487219b1ed480bb5e6d3f33736480bc12471609dd183ac16294eab95b4f3a980d612dda13f74152c34252d79c72bf6376ffb 477 main/binary-amd64/Packages.gz
+ f235d764ba8696169ac68fa07ffed59fea66ee4d0243151765cd2d6a07c8a63c9dabd537a377a4b281fecd6fc5dd9d7334607f215f0716b9ae15610ae3a54bcf 36 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE2SdsUnQJg2GeOOxUM6R7/xx9pd4FAmn9qTsACgkQM6R7/xx9
+pd5Oqg//Tbo0cGz61so8VgsRXgTCzTt2WZww7bWEasIMFMyjgRqEUm47Ek+zC+l8
+Ce1TLXhZblc+zOpLi/kGlBwbAXtqLpV4y+OhJICc4Q5hWxPE0KboHN+HH+roAUBt
+IcWFmrKy9IY5lYafP9u5xXls0z31hLQIGYYYY7gpa3tTcSL2sWCu8NEKeLYgMCsw
+c1hdgJHw+o5XqP28CNRQKhLXSVbcmN9HcRZUHwFhaJruSDCctg24tHGpuTY1uMM1
+0f4WuCMai3e5Dlz5WkH3J9MutbBukVPIX3YAoVpJaryv0GYX2ZB7OVshqVRJ1Id+
+ilNj7HWH5ok1lD/0foIhmsEy8YsalMY3IEyMZ4GQW3vtP3ZIcJPzojlkv+qwdYJt
+dBl0x2/qmOV57sb6w0gkoy1EMwMxSXSTZgKvjnnUmEZ/jKZXNoA3ZS7vhbsJpC2i
+YNcxLNbEYodd35VBTUqC47m6BzQSdOZiRllgii2jGriqHv+mTG4ODSVL7L+hy1Kd
+qZqp3ZKp7cgr76f3mC3HMU3MdTaphAtuKFJAmPHMhZbT4Tx/0H5T6mg2MsOsrYqz
+IQ3Ml2Z6SCkMKOjsouPtPyoHfi4S/F4mTe/kHAAgC9XYivUcOpcIC7ZqEKGhrejM
+FwinLT/g3x7bXaMkTFMmMMQKOx1zNNTys9WZDPjRdyUNUZgyvEk=
+=MD6l
+-----END PGP SIGNATURE-----
