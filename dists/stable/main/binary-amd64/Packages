@@ -1,17 +1,17 @@
 Package: control-center
-Version: 1.1.2
+Version: 1.1.3
 Architecture: amd64
-Installed-Size: 8394
+Installed-Size: 8389
 Maintainer: you
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libwebkit2gtk-4.1-0, libgtk-3-0
 Priority: optional
 Section: utils
-Filename: pool/main/c/control-center/control-center_1.1.2_amd64.deb
-Size: 4308010
-SHA512: dbba23a650a6723b395bd207e4e9aad3db85de3cb44aa8485a2494e4c2e2883c5ad0e0d8bade887cecf946285fd7af74891ef87e70ab714f25d8ef3e4d80c9b2
-SHA256: e6496b0e046591c8e6f9acd77713458b212eac1dd42c0b330100869f4d5e4e0f
-SHA1: b9cf1f86f0adb68129cd31355d4d78a0774ff740
-MD5sum: 9f871db4ef7eac72fd0f5890b975c286
+Filename: pool/main/c/control-center/control-center_1.1.3_amd64.deb
+Size: 4303970
+SHA512: 9df324486e201ab25aa90ffabf12d6abc80a520bd6aec0f77953f6570572e114f9b0d6407f1fcf24c9b7493be71baa206f373a5eae710655f5d1313cd9d29e1c
+SHA256: fc307669b2f26ea5e5523b781f25c1bd5ceed58b1ab5a7a9f526e7d18fc7b1c2
+SHA1: 45dcdb81418fe7a31be0a0dfb4a9a6410ed31d41
+MD5sum: 08fe7c9955686ae760914f4cc81b0b4c
 Description: Terminal command manager
  Organize and run your terminal commands in a structured tree with a full-featured terminal.
 
